@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95b6c4af-b194-4c11-b03e-ce36d09295b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaAPIBackendApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/auth/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/auth/CustomUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/auth/JwtService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/auth/PasswordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/auth/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/push/PushNotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/push/PushSubscription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/push/SubscriptionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/security/JwtFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/webcam/ModelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/webcam/ModelDatabaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/webcam/ModelEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/webcam/MonitoringService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/webcam/WebcamController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/webcam/WebcamService.java" afterDir="false" />
-    </list>
+    <list default="true" id="95b6c4af-b194-4c11-b03e-ce36d09295b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
